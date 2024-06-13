@@ -1,0 +1,93 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+#index,
+#registration,
+#user_login,
+#admin_login {
+    background-color: #4d6d9a;
+}
+#user_dashboard {
+    background-color: #5f6366;
+}
+#home-page {
+    background-color: #76abae;
+    /* margin-top: 25vh; */
+    margin: auto;
+    margin-top: 12vh;
+    padding-left: 45px;
+    padding-right: 34px;
+    height: 30vh;
+    width: 30vw;
+    padding-top: 40px;
+    text-align: center;
+    border-radius: 2%;
+}
+#login-home-page {
+    background-color: #76abae;
+    margin: auto;
+    margin-top: 10vh;
+    padding-left: 45px;
+    padding-right: 34px;
+    height: 30vh;
+    padding-top: 40px;
+    text-align: center;
+    border-radius: 2%;
+}
+#register-home-page {
+    background-color: #76abae;
+    margin: auto;
+    margin-top: 10vh;
+    padding-left: 45px;
+    padding-right: 34px;
+    height: 43vh;
+    padding-top: 40px;
+    text-align: center;
+    border-radius: 2%;
+}
+#header {
+    background-color: #86b3d1;
+    height: 5vh;
+    width: 101vw;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+}
+#header2 {
+    background-color: #edb5bf;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: right;
+}
+section nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 13pt;
+    font-weight: 500;
+    margin-left: 1rem;
+}
+section nav a:hover {
+    color: #99ced3;
+}
+#logintitle {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 75pt;
+    color: white;
+}
+#title {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 75pt;
+    color: white;
+    margin: 0;
+}
+#subhead,
+#loginsubhead {
+    text-align: center;
+    color: #edb5bf;
+}
+
+@media only screen and (max-width: 400px) {
+}
